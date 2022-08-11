@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6281291155341@s.whatsapp.net", 
+    "ownerName": "R么ғғᴜʀɪ", 
+    "botName": "タRyuuzxyツ",
+    "footer": "©BOTMD ", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/FZqKQrxx2dh5mfhfCOU4uT",
+    "yootube": "https://youtube.com/channel/UCBYk6B1tkZ233ElCqImkC7Q",
+     
+    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
+    "textBarisDonate1": "Dana : 0878-5712-5886",
+    "textBarisDonate2": "Ovo : 0878-5712-5886",
+    "textBarisDonate3": "Gopay : 087857125886",
+    "textBarisDonate4": "Pulsa : 0878-5712-5886",
+  
+    "ButtonTextMenu1": "Owner Web",
+    "ButtonTextMenu2": "Rest Api",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://dimas.anjay.mabar.slebew.xyz",
+    "ButtonMenuLink2": "https://api.lolhuman.xyz",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "Lexxy Official"
+    }
+}
