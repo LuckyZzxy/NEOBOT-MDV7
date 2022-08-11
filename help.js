@@ -297,13 +297,3 @@ return `*OTHERS*
  • ${prefix}happymod
  • ${prefix}quotesanime
 
-*THANKS TO*
-_> Fatih Arridho_
-_> Rwtone / irfan_
-_> Rimurubotz_
-_> Api-Lexxy_
-_> Yogi-Pw_
-_> My Subscribers_
-_> Lexxy Official_
-`
-}
